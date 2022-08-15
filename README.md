@@ -1,5 +1,5 @@
 # app-todo-react-native
-App ToDo
+
 Nesse projeto, foi desenvolvolvido uma aplicação de controle de tarefas no estilo **to-do list**, que contém as seguintes funcionalidades:
 
 - Adicionar uma nova tarefa
