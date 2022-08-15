@@ -13,6 +13,7 @@ Nesse projeto, foi desenvolvolvido uma aplicação de controle de tarefas no est
 ## Tecnologias usadas:
 - React Native
 - Typescript
+- Expo
 - Hooks
 - Componetização
 - Entre outros
